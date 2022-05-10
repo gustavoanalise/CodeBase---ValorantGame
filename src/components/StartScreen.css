@@ -1,0 +1,17 @@
+.start h1 {
+    font-size: 3.5em;
+    color: #560a88;
+}
+
+.start h2 {
+    margin-bottom: 2em;
+    font-weight: bold;
+    color: #560a88;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    
+    border-radius: 80px;
+}
